@@ -19,15 +19,15 @@ Temps de cuisson : 35 min
 
 ## Ingrédients
 
-* 3 carottes -> **penser à peser**
-* 2 courgettes -> **penser à peser**
-* 2 pommes -> **penser à peser**
-* 3 pomme de terre -> **penser à peser**
-* 1 ramequin de levure malté -> **à augmenter mettre 1 gros verre et penser à peser**
-* 1 ramequin de farine -> **à augmenter mettre 1 gros verre et penser à peser**
-* 1 ramequin de graine de tournesol -> **mettre 1/2 gros verre et penser à peser**
-* 1/2 gros verre d'huile -> **penser à mesurer en mL**
-* 1/2 gros verre d'eau tiède -> **penser à mesurer en mL**
+* 3 carottes -> **penser à peser** 322g
+* 2 courgettes -> **penser à peser** 375g
+* 2 pommes -> **penser à peser** 280g
+* 3 pomme de terre -> **penser à peser** 265
+* 1 ramequin de levure malté -> **à augmenter mettre 1 gros verre et penser à peser** 50g
+* 1 ramequin de farine -> **à augmenter mettre 1 gros verre et penser à peser** 100g
+* 1 ramequin de graine de tournesol -> **mettre 1/2 gros verre et penser à peser** 100g
+* 1/2 gros verre d'huile -> **penser à mesurer en mL** 10 cl
+* 1/2 gros verre d'eau tiède -> **penser à mesurer en mL** 10 cl
 * gingembre -> **penser à mesurer en cc**
 * paprika doux -> **penser à mesurer en cc**
 * coriandre -> **penser à mesurer en cc**
