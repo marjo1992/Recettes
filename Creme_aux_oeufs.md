@@ -69,3 +69,4 @@ Temps de cuisson : 45 min
 
 * https://www.marmiton.org/recettes/recette_creme-aux-oeufs-a-la-vanille-simple_26355.aspx
 * https://www.cuisineactuelle.fr/recettes/creme-caramel-au-thermomix-302943
+* https://www.cuisineactuelle.fr/recettes/creme-aux-oeufs-au-caramel-265003
