@@ -73,6 +73,7 @@ Lien [Poivronade à la feta](https://www.cookomix.com/recettes/poivronade-feta-t
 
 ## Desserts
 
+[Bananabread aux pépites de chocolat](./Bananabread_pepites_chocolat.html)
 [Crème aux oeufs](./Creme_aux_oeufs.html)
 Lien [Entremet gelée fraise facile](https://www.instagram.com/p/Bq8IUk9DIIl/?utm_source=ig_web_button_share_sheet)
 
