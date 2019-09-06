@@ -77,6 +77,25 @@ Lien [Poivronade à la feta](https://www.cookomix.com/recettes/poivronade-feta-t
 [Crème aux oeufs](./Creme_aux_oeufs.html)
 Lien [Entremet gelée fraise facile](https://www.instagram.com/p/Bq8IUk9DIIl/?utm_source=ig_web_button_share_sheet)
 
+# A catégoriser
+
+[Boisson detox au concombre et à l'aloe](./Boisson_detox_concombre_aloe.html)
+
+[Courgettes farcies](./Courgettes_farcies.html)
+
+[Kinder délice](./Kinder_delice.html)
+
+[Saumon gravlax](./Saumon_gravlax.html)
+
+[Saumon tataki](./Saumon_tataki.html)
+
+[Semoule et légumes sautés](./Semoule_legumes_sautes.html)
+
+[Tian de légumes d'été](./Tian_legumes_ete.html)
+
+[Wrap saumon](./Wrap_saumon.html)
+
+
 # Idées en vrac
 
 * Avocat
