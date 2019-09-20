@@ -13,6 +13,7 @@
 
 Lien [Salade de carottes au persil et au citron](https://www.fourchette-et-bikini.fr/recettes/recettes-minceur/salade-de-carottes-legere-au-persil-et-au-citron.html)
 
+[Verrine de betterave et chèvre frais](./Verrine_betterave_chevre.html)
 
 ## Soupes
 
