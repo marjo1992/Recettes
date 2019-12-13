@@ -80,7 +80,7 @@ Pour le glaçage :
 * Mettre les feuilles de gélatine à tremper dans de l'eau froide (environ 10 min)
 * Faire fondre au micro ondes le cream cheese, jusque ce soit onctueux
 * Dans un grand saladier verser le cream cheese et le fouetter
-* Ajouter le yaourt à la grec, le sucre, la vanille te le jus de citron dans le saladier et mélanger au fouet
+* Ajouter le yaourt à la grec, le sucre, la vanille et le jus de citron dans le saladier et mélanger au fouet
 * Essorer la gélatine
 * Mettre la gélatine essoré dans un bol et la faire chauffer au micro onde 10s (doit être fondu)
 * Ajouter la gélatine à la préparation et mélanger
