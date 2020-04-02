@@ -80,3 +80,4 @@
 * [Crème aux oeufs](./Creme_aux_oeufs.html)
 * Lien [Entremet gelée fraise facile](https://www.instagram.com/p/Bq8IUk9DIIl/?utm_source=ig_web_button_share_sheet)
 * [Kinder délice](./Kinder_delice.html)
+* [Cheesecake cuit 2 couches](./Cheesecake_cuit_2_couches.html)
