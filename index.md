@@ -3,33 +3,33 @@
 
 ## Bases
 
-* [Pâte à tarte légère au yaourt](./Pate_a_tarte_legere.html)
+* [Pâte à tarte légère au yaourt](./Cuisine/Pate_a_tarte_legere.html)
 
 ## Boissons
 
-* [Boisson detox au concombre et à l'aloe](./Boisson_detox_concombre_aloe.html)
+* [Boisson detox au concombre et à l'aloe](./Cuisine/Boisson_detox_concombre_aloe.html)
 
 ## Apéritifs
 
-* [Tartinade de fromage frais et de radis](./Tartinade_fromage_frais_radis.html)
+* [Tartinade de fromage frais et de radis](./Cuisine/Tartinade_fromage_frais_radis.html)
 
 ## Entrées
 
 * Lien [Salade de carottes au persil et au citron](https://www.fourchette-et-bikini.fr/recettes/recettes-minceur/salade-de-carottes-legere-au-persil-et-au-citron.html)
-* [Verrine de betterave et chèvre frais](./Verrine_betterave_chevre.html)
-* [Saumon gravlax](./Saumon_gravlax.html)
-* [Saumon tataki](./Saumon_tataki.html)
+* [Verrine de betterave et chèvre frais](./Cuisine/Verrine_betterave_chevre.html)
+* [Saumon gravlax](./Cuisine/Saumon_gravlax.html)
+* [Saumon tataki](./Cuisine/Saumon_tataki.html)
 
 ## Salades
 
-* [Salade betterave crue poire feta](./Salade_betterave_crue_poire.html)
-* [Salade mâche, pomme, chèvre & noix](./Salade_mache_pomme_chevre_noix.html)
-* [Wrap saumon](./Wrap_saumon.html)
+* [Salade betterave crue poire feta](./Cuisine/Salade_betterave_crue_poire.html)
+* [Salade mâche, pomme, chèvre & noix](./Cuisine/Salade_mache_pomme_chevre_noix.html)
+* [Wrap saumon](./Cuisine/Wrap_saumon.html)
 
 ## Soupes
 
-* [Soupe de chou-fleur au chorizo](./Soupe_chou_fleur_chorizo.html)
-* [Velouté de panais](./Veloute_panais.html)
+* [Soupe de chou-fleur au chorizo](./Cuisine/Soupe_chou_fleur_chorizo.html)
+* [Velouté de panais](./Cuisine/Veloute_panais.html)
 * Lien [Velouté d’endives (Thermomix)](https://www.cookomix.com/recettes/veloute-endives-thermomix/)
 
 ## Viandes
@@ -48,39 +48,39 @@
 
 ## Plats
 
-* [Pâté végétarien](./Pate_vegetarien.html)
-* [Quiche épinard feta](./Quiche_epinard_feta.html)
-* [Cake aux blettes, saumon fumé et fromage de chèvre](./Cake_blettes_saumon_fumé_chèvre.html)
-* [Courges Jack be little rôties farcies à la crème d'ail et romarin](./Courge_jack_be_little_roties_creme_ail_romarin.html)
-* [Gratin boudin noir pommes](./Gratin_boudin_pommes.html)
+* [Pâté végétarien](./Cuisine/Pate_vegetarien.html)
+* [Quiche épinard feta](./Cuisine/Quiche_epinard_feta.html)
+* [Cake aux blettes, saumon fumé et fromage de chèvre](./Cuisine/Cake_blettes_saumon_fumé_chèvre.html)
+* [Courges Jack be little rôties farcies à la crème d'ail et romarin](./Cuisine/Courge_jack_be_little_roties_creme_ail_romarin.html)
+* [Gratin boudin noir pommes](./Cuisine/Gratin_boudin_pommes.html)
 * [Gratin de patates douces, chèvre et noisettes]./Gratin_patate_douce_chevre_noisettes.html)
-* [Quiche au saumon, poireau et fromage ail et fines herbes](./Quiche_saumon_poireau_fromage_ail_fines_herbes.html)
-* [Soufflé de radis noir et parmesan](./Souffle_radis_noir_parmesan.html)
-* [Tian de légumes d'été](./Tian_legumes_ete.html)
+* [Quiche au saumon, poireau et fromage ail et fines herbes](./Cuisine/Quiche_saumon_poireau_fromage_ail_fines_herbes.html)
+* [Soufflé de radis noir et parmesan](./Cuisine/Souffle_radis_noir_parmesan.html)
+* [Tian de légumes d'été](./Cuisine/Tian_legumes_ete.html)
 * Lien [Chou rouge aux pommes](https://www.marmiton.org/recettes/recette_chou-rouge-aux-pommes-de-ma-grand-mere_44248.aspx)
 * Lien [Gratin de courgettes au chèvre (Thermomix)](https://www.cookomix.com/recettes/gratin-de-courgettes-chevre-thermomix/)
 * Lien [Boulettes de carotte au cumin](https://dubiodansmonbento.com/boulettes-de-carotte-au-cumin/)
 * Lien [Gâteau invisible aux courgettes (Thermomix)](https://www.cookomix.com/recettes/gateau-invisible-aux-courgettes-thermomix/)
 * Lien [Croque cake (Thermomix)](https://www.cookomix.com/recettes/croque-cake-thermomix/)
-* [Courgettes farcies](./Courgettes_farcies.html)
+* [Courgettes farcies](./Cuisine/Courgettes_farcies.html)
 
 ## Accompagnement
 
 * Lien [Nouille licorne](http://theindigokitchen.com/quick-and-simple-unicorn-noodles/) - testé à la maison
 * Lien [Flan de carottes (Thermomix)](https://www.cookomix.com/recettes/flan-de-carottes-thermomix/)
-* [Semoule et légumes sautés](./Semoule_legumes_sautes.html)
+* [Semoule et légumes sautés](./Cuisine/Semoule_legumes_sautes.html)
 
 ## Sauces
 
-* [Sauce tomate maison](./Sauce_tomate_maison.html)
+* [Sauce tomate maison](./Cuisine/Sauce_tomate_maison.html)
 * Lien [Poivronade à la feta](https://www.cookomix.com/recettes/poivronade-feta-thermomix/)
 
 ## Desserts
 
-* [Bananabread aux pépites de chocolat](./Bananabread_pepites_chocolat.html)
-* [Crème aux oeufs](./Creme_aux_oeufs.html)
+* [Bananabread aux pépites de chocolat](./Cuisine/Bananabread_pepites_chocolat.html)
+* [Crème aux oeufs](./Cuisine/Creme_aux_oeufs.html)
 * Lien [Entremet gelée fraise facile](https://www.instagram.com/p/Bq8IUk9DIIl/?utm_source=ig_web_button_share_sheet)
-* [Kinder délice](./Kinder_delice.html)
+* [Kinder délice](./Cuisine/Kinder_delice.html)
 
 # Idées en vrac
 
