@@ -1,5 +1,7 @@
 # Courges Jack be little rôties farcies à la crème d'ail et romarin
 
+Catégories : Plat
+
 Tags : #Four #Chaud #CourgeJackBeLittle
 
 Pour 4 portions (1 courge par portion)

@@ -1,5 +1,7 @@
 # Gratin boudin noir pommes
 
+Catégories : Plat
+
 Tags : #Chaud #Pomme #BoudinNoir
 
 Pour 4 portion

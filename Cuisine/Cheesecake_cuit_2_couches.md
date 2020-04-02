@@ -1,5 +1,7 @@
 # Cheesecake en deux couches avec cuisson
 
+Catégories : Dessert
+
 fond rond 15cm => 20cm
 
 ## Ingrédients

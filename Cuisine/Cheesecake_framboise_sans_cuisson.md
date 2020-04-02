@@ -1,5 +1,7 @@
 # Cheesecake framboise sans cuisson
 
+Catégories : Dessert
+
 Tags : #Dessert #Sanscuisson #Cheezecake
 
 Pour 1 gateau de 18 cm diamètre (8 personnes)

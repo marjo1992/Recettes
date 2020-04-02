@@ -1,5 +1,7 @@
 # Pâte à tarte légère au yaourt
 
+Catégories : Base
+
 Tags : #PâteATarte #Simple
 
 Pour 1 pâte à tarte

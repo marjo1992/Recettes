@@ -1,5 +1,7 @@
 # Crème pâtissière
 
+Catégories : Base, Dessert
+
 Dosages pour environ 1L de préparation
 
 ## Ustensiles

@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&display=swap');
+
+@font-face {
+	font-family: "TitleFont";
+	src: url('../_font/Austhina Brush Calligraphy Scratch.ttf');
+}
+
+html {
+  max-width: 100%;
+}
+
+html, body, p {
+	margin:0; 
+	padding:0; 
+    color: #444;
+    font-family: 'Comic Neue', cursive;
+    margin: 0 auto;
+    max-width: 48rem;
+}
+  
+
+header {
+  font-size: 30px;
+  font-family: 'TitleFont';
+  color: #d31535;
+	padding:25px 0px;
+	background-color : #f7b9c3d2;
+	text-align:center;
+}
+
+pre,
+code {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+}
+
+pre {
+  padding: .5rem;
+  line-height: 1.25;
+  overflow-x: scroll;
+}
+
+a,
+a:visited {
+  color: #3498db;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: #2980b9;
+}
+
+.modest-no-decoration {
+  text-decoration: none;
+}
+
+p {
+  margin-bottom: 1.3rem;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  border-bottom: 2px solid #fafafa;
+  margin-bottom: 1.15rem;
+  padding-bottom: .5rem;
+  text-align: left;
+}
+
+
+blockquote {
+  border-left: 8px solid #fafafa;
+  padding: 1rem;
+}
+
+pre,
+code {
+  background-color: #fafafa;
+}

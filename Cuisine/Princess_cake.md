@@ -1,5 +1,7 @@
 # Princess cake
 
+Catégories : Dessert, Gros gateau
+
 ## Ingrédients
 
 500 mL de crème pâtissière

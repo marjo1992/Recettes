@@ -1,5 +1,7 @@
 # Lessive au savon de marseille et savon noir
 
+Catégories : Linge
+
 ## Ustensiles
 
 * Thermomix

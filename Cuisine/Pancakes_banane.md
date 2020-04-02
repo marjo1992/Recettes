@@ -1,5 +1,7 @@
 # Pancakes banane
 
+Catégories : Petit déjeuner
+
 Portions
 5 pancakes
 

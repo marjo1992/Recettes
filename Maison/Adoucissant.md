@@ -1,5 +1,7 @@
 # Adoucissant
 
+Catégories : Linge
+
 ## Ustensiles
 
 * 1 bouteille en verre de 1L

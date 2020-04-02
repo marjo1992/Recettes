@@ -1,5 +1,7 @@
 # Pâté végétarien
 
+Catégories : Plat
+
 Pour 9 parts
 
 Servir froid avec la sauce tomate maison chaude (dose pour 500mL) et accompagné d'une salade

@@ -1,5 +1,7 @@
 # Gratin de patates douces, chèvre et noisettes
 
+Catégories : Dessert
+
 Tags : #Chaud #PatateDouce
 
 Pour 2 portions

@@ -1,5 +1,7 @@
 # Cake aux blettes, saumon fumé et fromage de chèvre
 
+Catégories : Plat
+
 Tags : #Cake #Froid #Bento #Blette
 
 Pour 1 moule à cake

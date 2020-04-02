@@ -1,5 +1,7 @@
 # Bananabread aux pépites de chocolat
 
+Catégories : Dessert
+
 Tags : #Oeuf #Simple #Dessert #Froid #Bento
 
 Pour 5 ramequins
