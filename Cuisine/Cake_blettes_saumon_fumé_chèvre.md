@@ -2,7 +2,7 @@
 
 Catégories : Plat
 
-Tags : #Cake #Froid #Bento #Blette
+Tags : #Cake, #Froid, #Bento, #Blette
 
 Pour 1 moule à cake
 
