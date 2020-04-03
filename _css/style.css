@@ -1,31 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @font-face {
 	font-family: "TitleFont";
 	src: url('../_font/Austhina Brush Calligraphy Scratch.ttf');
 }
 
 html {
+  background-color: #f5f5f5
   max-width: 100%;
 }
 
 html, body, p {
-	margin:0; 
-	padding:0; 
-    color: #444;
-    font-family: 'Comic Neue', cursive;
-    margin: 0 auto;
-    max-width: 48rem;
+	margin:0;
+	padding:0;
+	margin: 0 auto;
+	max-width: 48rem;
+
+    color:#5d5d5d;
+    font-family:"Lato";
+    line-height:1.618;
 }
   
 
 header {
+	background-color : #f7b9c3d2;
   font-size: 30px;
   font-family: 'TitleFont';
   color: #d31535;
+	margin-top:10;
+	margin-bottom:10;
 	padding:25px 0px;
-	background-color : #f7b9c3d2;
 	text-align:center;
+}
+
+.site_content {
+  background-color: white
 }
 
 pre,
@@ -68,7 +78,32 @@ h6 {
   border-bottom: 2px solid #fafafa;
   margin-bottom: 1.15rem;
   padding-bottom: .5rem;
-  text-align: left;
+  font-family:"Poppins",sans-serif;
+  letter-spacing: -0.05em;
+}
+h1 {   
+    font-size:2.2906835em;
+    line-height:1.214;
+    text-align:center;
+    color:black;
+}
+
+h2 {   
+    padding-top:.5407911;
+    font-size:1.618em;
+    color: #ca2757;
+}
+
+h3 {   
+    font-size:1.41575em
+}
+
+h4 {   
+    font-size:1em
+}
+
+h5 {   
+    font-size:.875em
 }
 
 

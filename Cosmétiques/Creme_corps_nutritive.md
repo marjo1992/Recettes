@@ -1,5 +1,7 @@
 # Crème corps nutritive
 
+Catégories : Corps
+
 ## Ingrédients
 
 PHASE A :
