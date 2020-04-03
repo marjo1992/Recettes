@@ -7,8 +7,8 @@
 }
 
 html {
-  background-color: #f5f5f5;
   max-width: 100%;
+  background-color: #f5f5f5;
   color:#5d5d5d;
   font-family:"Lato";
   line-height:1.618;
@@ -23,29 +23,58 @@ body, p {
   
 
 header {
-	background-color : #f7b9c3d2;
-  font-size: 30px;
-  font-family: 'TitleFont';
-  color: #d31535;
-	margin-top:10;
-	margin-bottom:10;
+	margin-top:20px;
+	margin-bottom:20px;
 	padding:25px 0px;
+    background-color : #cc2541;
+    color: White;
+    font-family: 'TitleFont';
+    font-size: 30px;
 	text-align:center;
+}
+
+
+nav {
+  background: #ff5974d2;
+  padding: 4px 0 ;
+  margin-bottom:20px;
+  font: 1em "TitleFont",Arial,sans-serif ;
+  color: white ;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  list-style: none;
+}
+
+nav ul li {
+  /*background: blue;*/
+}
+
+nav li a, nav li a:visited {
+  color: white ;
 }
 
 .site_content {
   background-color: white;
+  padding:30px;
 }
 
 a,
 a:visited {
-  color: #3498db;
+  color: black;
+  text-decoration:none
 }
 
 a:hover,
 a:focus,
-a:active {
-  color: #2980b9;
+a:active,
+nav li a:hover,
+nav li a:focus,
+nav li a:active {
+  color: #d31535;
 }
 
 .modest-no-decoration {
