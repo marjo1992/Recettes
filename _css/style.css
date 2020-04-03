@@ -7,19 +7,18 @@
 }
 
 html {
-  background-color: #f5f5f5
+  background-color: #f5f5f5;
   max-width: 100%;
+  color:#5d5d5d;
+  font-family:"Lato";
+  line-height:1.618;
 }
 
-html, body, p {
+body, p {
 	margin:0;
 	padding:0;
 	margin: 0 auto;
 	max-width: 48rem;
-
-    color:#5d5d5d;
-    font-family:"Lato";
-    line-height:1.618;
 }
   
 
@@ -35,18 +34,7 @@ header {
 }
 
 .site_content {
-  background-color: white
-}
-
-pre,
-code {
-  font-family: Menlo, Monaco, "Courier New", monospace;
-}
-
-pre {
-  padding: .5rem;
-  line-height: 1.25;
-  overflow-x: scroll;
+  background-color: white;
 }
 
 a,
@@ -95,15 +83,15 @@ h2 {
 }
 
 h3 {   
-    font-size:1.41575em
+    font-size:1.41575em;
 }
 
 h4 {   
-    font-size:1em
+    font-size:1em;
 }
 
 h5 {   
-    font-size:.875em
+    font-size:.875em;
 }
 
 
