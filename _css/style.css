@@ -33,7 +33,6 @@ header {
 	text-align:center;
 }
 
-
 nav {
   background: #ff5974d2;
   padding: 4px 0 ;
@@ -57,7 +56,7 @@ nav li a, nav li a:visited {
   color: white ;
 }
 
-.site_content {
+#site_content {
   background-color: white;
   padding:30px;
 }
