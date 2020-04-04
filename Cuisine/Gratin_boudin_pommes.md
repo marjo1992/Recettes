@@ -2,7 +2,7 @@
 
 Catégories : Plat
 
-Tags : #Chaud #Pomme #BoudinNoir
+Tags : Chaud, Pomme, Boudin noir
 
 Pour 4 portion
 

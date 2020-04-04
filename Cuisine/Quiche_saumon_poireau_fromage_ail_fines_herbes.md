@@ -1,6 +1,6 @@
 # Quiche au saumon, poireau et fromage ail et fines herbes
 
-Tags : #Quiche #Poireau #Chaud #Froid #Bento
+Tags : Quiche, Poireau, Chaud, Froid, Bento
 
 Pour 1 quiche, 8 portions
 

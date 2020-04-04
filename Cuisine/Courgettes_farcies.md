@@ -1,8 +1,6 @@
-A TESTER
+# Courgettes farcies (à tester)
 
 Catégories : Plat
-
-Courgettes farcies
 
 NB DE PERSONNES : 6
 3 belles courgettes

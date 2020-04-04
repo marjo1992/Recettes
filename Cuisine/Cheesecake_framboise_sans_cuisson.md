@@ -2,7 +2,7 @@
 
 Catégories : Dessert
 
-Tags : #Dessert #Sanscuisson #Cheezecake
+Tags : Dessert, Sans cuisson, Cheesecake
 
 Pour 1 gateau de 18 cm diamètre (8 personnes)
 

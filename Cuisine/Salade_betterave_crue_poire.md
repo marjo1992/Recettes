@@ -1,6 +1,6 @@
 # Salade betterave crue poire feta
 
-Tags : #Salade #Mâche #Pomme #Froid #Bento
+Tags : Salade, Mâche, Pomme, Froid, Bento
 
 Pour 4 portion
 

@@ -2,7 +2,7 @@
 
 Catégories : Dessert
 
-Tags : #Chaud #PatateDouce
+Tags : Chaud, Patate douce
 
 Pour 2 portions
 

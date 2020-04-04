@@ -2,7 +2,7 @@
 
 Catégories : Plat
 
-Tags : #Four #Chaud #CourgeJackBeLittle
+Tags : Four, Chaud, Courge Jack Be Little
 
 Pour 4 portions (1 courge par portion)
 

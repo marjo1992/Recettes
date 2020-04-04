@@ -2,7 +2,7 @@
 
 Catégories : Base
 
-Tags : #PâteATarte #Simple
+Tags : Pâte à tarte, Simple
 
 Pour 1 pâte à tarte
 
