@@ -1,6 +1,8 @@
 # Velouté de panais
 
-Tags : #Soupe #Panais
+Catégories : Soupe
+
+Tags : Soupe, Panais
 
 Pour 1,5 l de soupe
 

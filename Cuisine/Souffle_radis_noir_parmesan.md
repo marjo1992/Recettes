@@ -1,6 +1,8 @@
 # Soufflé de radis noir et parmesan
 
-Tags : #Cake #Froid #Bento #RadisNoir
+Catégories : Plat
+
+Tags : Cake, Froid, Bento, Radis noir
 
 Pour 1 moule à cake
 

@@ -1,6 +1,8 @@
 # Salade mâche, pomme, chèvre & noix
 
-Tags : #Salade #Mâche #Pomme #Froid #Bento
+Catégories : Salade
+
+Tags : Salade, Mâche, Pomme, Froid, Bento
 
 Pour 1 portion
 

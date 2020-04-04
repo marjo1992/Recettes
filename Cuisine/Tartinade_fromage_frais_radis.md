@@ -1,6 +1,8 @@
 # Tartinade de fromage frais et de radis
 
-Tags : #Simple #Tartinade #Froid #Bento #Radis
+Catégories : Tartinade
+
+Tags : Simple, Tartinade, Froid, Bento, Radis
 
 Pour 8 portions
 

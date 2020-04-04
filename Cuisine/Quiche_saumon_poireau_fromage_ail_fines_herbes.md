@@ -1,5 +1,7 @@
 # Quiche au saumon, poireau et fromage ail et fines herbes
 
+Catégories : Tarte salée, Plat
+
 Tags : Quiche, Poireau, Chaud, Froid, Bento
 
 Pour 1 quiche, 8 portions

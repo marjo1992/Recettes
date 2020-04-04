@@ -1,4 +1,6 @@
-Semoule et légumes sautés
+# Semoule et légumes sautés
+
+Catégories : Plat
 
 Ingrédients pour 2 portions
 • Semoule (50 g)

@@ -1,5 +1,7 @@
 # Sponge cake norvégien
 
+Catégories : Gâteau
+
 ## Ustensiles
 
 * 1 cercle de 20 cm de diamètre

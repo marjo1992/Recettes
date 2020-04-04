@@ -1,6 +1,8 @@
 # Sauce tomate maison
 
-Tags : #Tomate #Sauce #Simple #Chaud
+Catégories : Sauce
+
+Tags : Tomate, Sauce, Simple, Chaud
 
 Pour environ 500mL de sauce (9 parts)
 

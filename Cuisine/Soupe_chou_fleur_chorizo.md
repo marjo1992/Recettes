@@ -1,6 +1,8 @@
-# Crème aux oeufs
+# Soupe chou fleur chorizo
 
-Tags : #Thermomix #Chou-fleur #Chorizo #Soupe #Simple #Chaud #BentoARechauffer
+Catégories : Soupe
+
+Tags : Thermomix, Chou-fleur, Chorizo, Soupe, Simple, Chaud, BentoARechauffer
 
 Pour 6 portions
 

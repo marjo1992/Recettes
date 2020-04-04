@@ -1,6 +1,6 @@
 # Quiche épinard feta
 
-Catégories : Plat
+Catégories : Tarte salée, Plat
 
 Tags : Four, Épinard, Feta, Tarte, Simple, Bento
 

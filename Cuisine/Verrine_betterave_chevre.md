@@ -1,6 +1,8 @@
 # Verrine de betterave et chèvre frais
 
-Tags : #Entrée #Simple #Froid #Bento
+Catégories : Entrée
+
+Tags : Entrée, Simple, Froid, Bento
 
 Pour ? ramequins
 
