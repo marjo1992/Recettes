@@ -61,6 +61,12 @@ nav li a, nav li a:visited {
   padding:30px;
 }
 
+#lienAutreVue {
+  text-align: center;
+  font-style: italic;
+  color: #521e27;
+}
+
 a,
 a:visited {
   color: black;
