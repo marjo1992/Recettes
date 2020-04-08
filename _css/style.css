@@ -68,6 +68,17 @@ nav li a, nav li a:visited {
   color: #521e27;
 }
 
+img {
+	/* border: 2px solid deeppink; */
+	border-radius: 5%;
+	max-width: 70%;
+	display: block;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .warning {
   color:#F87805;
 }
