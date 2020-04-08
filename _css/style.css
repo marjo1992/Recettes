@@ -68,6 +68,17 @@ nav li a, nav li a:visited {
   color: #521e27;
 }
 
+.warning {
+  color:#F87805;
+}
+
+.warning::before {
+  content:"Attention : ";
+  color: #fd4800;
+  font-weight: bold;
+  font-style: italic;
+}
+
 a,
 a:visited {
   color: black;

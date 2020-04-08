@@ -41,7 +41,7 @@ Temps de refroidissement : 1 h
 ## Ingrédients
 
 * 250 g Philadelphia
-* 6 oeufs <span style="color:#F87805">**A vérifier**, il doit y avoir ~120g jaunes et ~265g blancs</span>
+* 6 oeufs <span class="warning">**A vérifier**, il doit y avoir ~120g jaunes et ~265g blancs</span>
 * 1/4 cc de crème de tartre (facultatif)
 * 140 g sucre en poudre
 * 60 g beurre doux
@@ -82,7 +82,7 @@ Temps de refroidissement : 1 h
 27. Décorez le dessus de sucre glace à l'aide d'un pochoir
 28. Pour le servir coupez le gâteau avec un couteau chaud, essuyez le couteau avant la prochaine coupe.
 
-# Remarques
+## Remarques
 
 La temérature dans le four est crucial. La température indiquée dans la recette est la température au four. Chaque four est différent, donc si vous n'êtes pas trop sûr si la température à l'intérieur de votre four est exacte comme ce que vous avez réglé sur le panneau de commande, utiliser un thermomètre de four pour vérifier.
 
