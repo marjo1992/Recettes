@@ -18,19 +18,19 @@ Temps de cuisson : /
 
 ### Total
 
-* 550 kcal total
-* 51,9 g glucides
-* 35,1 g protéines
-* 22,5 g lipides
+* ??? kcal total
+* ??? g glucides
+* ??? g protéines
+* ??? g lipides
 
 ### Par portion
 
-1 portion = 1 ramequin
+1 portion = 1/8 gâteau
 
-* 110 kcal par ramequins
-* 10,4 g glucides
-* 7,0 g protéines
-* 4,5 g lipides
+* ??? kcal par ramequins
+* ??? g glucides
+* ??? g protéines
+* ??? g lipides
 
 ## Ustensiles
 

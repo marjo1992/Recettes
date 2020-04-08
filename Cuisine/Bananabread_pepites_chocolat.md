@@ -2,34 +2,30 @@
 
 Catégories : Dessert
 
-Tags : Oeuf, Simple, Dessert, Froid, Bento
+Tags : Banane, Gâteau, Dessert, Froid, Bento
 
-Pour 5 ramequins
+Pour 8 personnes
 
-Servir froid
-
-/!\\ A préparer au moins 4h avant de manger
-
-Temps de préparation : 15 min
-Temps de cuisson : 45 min
+Temps de préparation : 10 min
+Temps de cuisson : 35 min
 
 ## Apports nutritionnels
 
 ### Total
 
-* 550 kcal total
-* 51,9 g glucides
-* 35,1 g protéines
-* 22,5 g lipides
+* 1456 kcal total
+* 226.4 g glucides
+* 48 g protéines
+* 43.2 g lipides
 
 ### Par portion
 
-1 portion = 1 ramequin
+1 portion = 1/8 gâteau
 
-* 110 kcal par ramequins
-* 10,4 g glucides
-* 7,0 g protéines
-* 4,5 g lipides
+* 182 kcal
+* 28.3 g glucides
+* 6 g protéines
+* 5.4 g lipides
 
 ## Ustensiles
 
