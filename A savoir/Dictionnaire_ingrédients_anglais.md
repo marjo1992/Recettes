@@ -2,17 +2,45 @@
 
 Catégories : Equivalent anglais / français
 
-| Anglais | Français          |                          |
-|---------|-------------------|--------------------------|
-| Farine  | Cake flour        | Farine de Blé T45        |
-|         | All-Purpose Flour | Farine de Blé T55        |
-| Poudres | Baking Powder     | Levure Chimique          |
-|         | Baking Soda       | Biocarbonate Alimentaire |
-|         | Yeast             | Levure Boulanger         |
-| Sucres  | Sugar             | Sucre en Poudre          |
-|         | Brown Sugar       | Sucre Vergeoise          |
-|         | Powdered Sugar    | Sucre Glace              |
-
+<table>
+    <tr>
+        <th></th>
+        <th>Anglais</th>
+        <th>Français</th>
+    </tr>
+    <tr>
+        <td rowspan=2>Farine</td>
+        <td>Cake flour</td>
+        <td>Farine de Blé T45</td>
+    </tr>
+    <tr>
+        <td>All-Purpose Flour</td>
+        <td>Farine de Blé T55</td>
+    </tr>
+    <tr>
+        <td rowspan=2>Poudres</td>
+        <td>Baking Powder</td>
+        <td>Levure Chimique</td>
+    </tr>
+    <tr>
+        <td>Baking Soda</td>
+        <td>Bicarbonate Alimentaire</td>
+    </tr>
+    <tr>
+        <td rowspan=3>Sucres</td>
+        <td>Sugar</td>
+        <td>Sucre en Poudre</td>
+    </tr>
+    <tr>
+        <td>Brown Sugar</td>
+        <td>Sucre Vergeoise</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Powdered Sugar</td>
+        <td>Sucre Glace</td>
+    </tr>
+</table>
 
 ## Inspirations
 
