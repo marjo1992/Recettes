@@ -8,26 +8,9 @@ Pour 1 pâte à tarte
 
 Temps de préparation : 5 min
 
-Cette pate peut d'étendre immédiatement mais peux aussi être conservée au frigo quelques instants avant de l'utiliser. Une fois prête, vous pouvez aussi la congeler
-
-## Apports nutritionnels
-
-### Total
-
-* ... kcal total
-* ... g glucides
-* ... g protéines
-* ... g lipides
-
-### Par portion
-
-1 portion =  1 pâte
-
-idem total
-
 ## Ustensiles
 
-* Thermomix
+* Kitchen aid (ou thermomix ou un grand saladier)
 
 ## Ingrédients
 
@@ -38,13 +21,15 @@ idem total
 
 ## Étapes
 
-* mettre tous les ingrédients dans le bol du thermomix
-* 2min pétrin
-* 10s sens inverse vit 2
+* Mttre tous les ingrédients dans le bol
+* Mélanger les ingrédients jusquequ'à obtenir une boule (Thermomix : 2 min pétrin + 10s sens inverse vit 2)
 
 ## Remarques
 
-/
+* Cette pâte peut être :
+  * utilisée immédiatement
+  * conservée au frigo avant de l'utiliser quelques heures après
+  * congelée pour être utilisée un autre jour.
 
 ## Inspirations
 

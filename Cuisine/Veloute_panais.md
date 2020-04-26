@@ -9,24 +9,6 @@ Pour 1,5 l de soupe
 Temps de préparation : 15 min
 Temps de cuisson : 20 min
 
-## Apports nutritionnels
-
-### Total
-
-* ??? kcal total
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
-
-### Par portion
-
-1 portion = 1 ramequin
-
-* ??? kcal par ramequins
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
-
 ## Ustensiles
 
 * 1 grande casserole

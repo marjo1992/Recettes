@@ -52,18 +52,12 @@ Les différentes types de sucre complets :
 Les sirops sont de manière générale une bonne alternative au sucre blanc, cependant leur texture
 liquide ne convient pas à toutes les préparations.
 
-* Les miels: il en existe tout plein mais sont tous naturels et riches en minéraux et vitamines B et C. Il
-favorise également le transit. Chaque miel est spécifique, je ne vais donc pas m'attarder sur le sujet à
-risque de rallonger encore plus cet article ;-)
-* Le sirop d'érable: lui aussi est naturel et riches en minéraux. Son pouvoir sucrant est plus élevé que le
-sucre blanc. Il contient du saccharose et un IG de 60. Il a un bon petit goût et à un pouvoir sucrant
-fort (j'en met moitié moins comparé au sucre blanc).
-* Le sirop d'agave: quant à lui contient du fructose (60%) et glucose (20%). Le fructose augmente les
-taux de ghréline, hormone qui stimule l'appétit et se transforme plus vite en graisse de réserve. Il
-augmente les risques de maladies cardio-vasculaires et peut provoquer des inconvénients sur le
-transit.
-Il est mort d'un point de vue nutritionnel et contient presque autant de calorie que le sucre.
-Bref à bannir ! (produit purement marketing)
+* Le miel
+  * il en existe tout plein mais sont tous naturels et riches en minéraux et vitamines B et C. Il favorise également le transit. Chaque miel a ses spécificitées.
+* Le sirop d'érable
+  * lui aussi est naturel et riches en minéraux. Son pouvoir sucrant est plus élevé que le sucre blanc. Il contient du saccharose et un IG de 60. Il a un bon petit goût et à un pouvoir sucrant fort (mettre moitié moins que le sucre blanc).
+* Le sirop d'agave
+  * quant à lui contient du fructose (60%) et glucose (20%). Le fructose augmente les taux de ghréline, hormone qui stimule l'appétit et se transforme plus vite en graisse de réserve. Il augmente les risques de maladies cardio-vasculaires et peut provoquer des inconvénients sur le transit. Il est mort d'un point de vue nutritionnel et contient presque autant de calorie que le sucre. Bref à bannir ! (produit purement marketing)
 * le sirop de sucre de canne (plutôt utilisé pour les cocktails), 
 * le sirop de riz (et autres céréales)
 * la mélasse
@@ -94,31 +88,25 @@ Très prisés dans les régimes, il existe deux types d'édulcorants: les nature
   * c'est un édulcorant artificiel qui a un pouvoir sucrant 200 fois plus élevé à celui du saccharose. C'est un addictif alimentaire et il ne peut pas être chauffé.
   * Il y a de nombreuses études sur le risque de cancer suite à sa consommation et d'accouchements prématurés, rien est encore prouvé mais moi ça me refroidit...
 
-* La stévia: une alternative à l'aspartame et peut-être chauffée. Elle a un pouvoir sucrant jusqu'à 300
-fois plus intense que le saccharose sans apporter une seule calorie. Elle ne provoque pas de caries.
-Pour les points négatifs: un léger arrière gout mais surtout et bien souvent un produit pas du tout
-naturel, la plante est belle est bien naturelle mais le produit final ne l'est pas de part à son procédé
-d'extraction qui peut être chimique. Des agents de charge (pour augmenter le volume du produit
-final) et des additifs alimentaires (chimiques et naturels) sont ajoutés. Donc si le produit fini est blanc
-c'est à bannir !
-* La stévia est de couleur verte naturelle on peut désormais en trouver de la "naturelle" comme ici, qui
-est restée bien verte car il s'agit de poudre obtenue par les feuilles séchées (pas d'ajout de produits
-chimiques donc) mais un goût assez prononcé.
-Le sucralose: édulcorant de synthèse qui contient du saccharose et à pouvoir sucrant 600 fois plus
-élevé. il peut être chauffé, n'est pas calorigène et ne provoque pas de caries.
-Attention il est considéré comme addictif alimentaire! Il n’y a pas encore suffisamment d’études sur
-l’être humain pour être assuré de son innocuité.
-Donc à petite dose voir à bannir (ce qui est mon cas).
-* Le fructose: édulcorant de synthèse au pouvoir sucrant 20 fois supérieur au sucre blanc. J'en parle au
-niveau du sirop d'agave " le fructose augmente les taux de ghréline, hormone qui stimule l'appétit et
-se transforme plus vite en graisse de réserve. Il augmente les risques de maladies cardio-vasculaires
-et peut provoquer des inconvénients sur le transit."
-Cependant le fructose présent naturellement dans les fruits et légumes n'est pas nocif puisque
-naturel et présent en plus petite quantité. De plus il est mélangé avec des fibres, vitamines,
-minéraux... qui empêchent les effets métaboliques néfastes de cette substance.
-
-test il était une fois
-{: .testClass}
+* La stévia
+  * une alternative à l'aspartame et peut-être chauffée
+  * Elle a un pouvoir sucrant jusqu'à 300 fois plus intense que le saccharose sans apporter une seule calorie
+  * Elle ne provoque pas de caries.
+  * Pour les points négatifs: 
+    * un léger arrière gout mais surtout et bien souvent un produit pas du tout naturel,
+    * la plante est belle est bien naturelle mais le produit final ne l'est pas de part à son procédé d'extraction qui peut être chimique
+    * Des agents de charge (pour augmenter le volume du produit final) et des additifs alimentaires (chimiques et naturels) sont ajoutés
+    * Donc si le produit fini est blanc c'est à bannir !
+  * La stévia est de couleur verte naturelle on peut désormais en trouver de la "naturelle", qui est restée bien verte car il s'agit de poudre obtenue par les feuilles séchées (pas d'ajout de produits chimiques donc) mais un goût assez prononcé.
+* Le sucralose
+  * édulcorant de synthèse qui contient du saccharose et à pouvoir sucrant 600 fois plus élevé.
+  * il peut être chauffé, n'est pas calorigène et ne provoque pas de caries.
+  * Attention il est considéré comme addictif alimentaire! Il n’y a pas encore suffisamment d’études sur l’être humain pour être assuré de son innocuité.
+  * Donc à petite dose voir à bannir.
+* Le fructose
+  * édulcorant de synthèse au pouvoir sucrant 20 fois supérieur au sucre blanc
+  * le fructose augmente les taux de ghréline, hormone qui stimule l'appétit et se transforme plus vite en graisse de réserve. Il augmente les risques de maladies cardio-vasculaires et peut provoquer des inconvénients sur le transit."
+  * Cependant le fructose présent naturellement dans les fruits et légumes n'est pas nocif puisque naturel et présent en plus petite quantité. De plus il est mélangé avec des fibres, vitamines, minéraux... qui empêchent les effets métaboliques néfastes de cette substance.
 
 
 ## Inspirations

@@ -71,6 +71,8 @@ Cut the cake and enjoy!
 
 ## Sources
 
-* https://theinspiredhome.com/articles/white-strawberry-princess-cake
-* https://www.youtube.com/watch?v=hK-uHHqqyj8
-* 
+* [odelices : Swedish Princess Cake](https://odelices.ouest-france.fr/recette/prinsesstarta-r4608/)
+* [theinspiredhome : Swedish Princess Cake](https://theinspiredhome.com/articles/white-strawberry-princess-cake)
+* [Swedish Princess Cake](https://www.youtube.com/watch?v=hK-uHHqqyj8)
+* [Swedish Princess Cake](https://www.youtube.com/watch?v=JJICHCaXlWY)
+* [passionforbaking : Swedish Princess Cake](https://www.passionforbaking.com/blog/2017/06/27/a-classic-swedish-princess-cake-klassisk-prinsesstarta/)

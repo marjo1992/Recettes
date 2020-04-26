@@ -12,24 +12,6 @@ Temps de préparation : 20 min
 
 Temps de cuisson : /
 
-## Apports nutritionnels
-
-### Total
-
-*  kcal total
-*  g glucides
-*  g protéines
-*  g lipides
-
-### Par portion
-
-1 portion = 
-
-*  kcal par portion
-*  g glucides
-*  g protéines
-*  g lipides
-
 ## Ustensiles
 
 * rappe (ou robot pour rapper)

@@ -68,6 +68,10 @@ Sur les taches rebelles (sur tissus peu sensibles) : appliquer une pâte de cris
 
 ## Sources
 
-* Recette Kevin
+* Kevin
 * https://cahierdegourmandises.fr/lessive-maison/
 * https://cahierdegourmandises.fr/faq-lessive-adoucissant-maison/
+
+
+A regarder :
+https://unejulieverte.com/recette-zero-dechet-diy-lessive-maison-naturelle-ecologique-economique/

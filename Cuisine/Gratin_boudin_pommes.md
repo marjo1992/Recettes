@@ -100,3 +100,4 @@ Temps de cuisson : ?
 
 * https://www.youtube.com/watch?v=63lyeTxMrB0
 * https://yummix.fr/parmentier-boudin-pommes-thermomix/
+* [HACHIS PARMENTIER DE BOUDIN NOIR ET POMMES (thermomix)](http://thermominoux.over-blog.com/article-hachis-parmentier-de-boudin-noir-et-pommes-101188585.html)

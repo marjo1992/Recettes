@@ -6,28 +6,8 @@ Tags : Cake, Froid, Bento, Radis noir
 
 Pour 1 moule à cake
 
-Servir chaud ou froid avec une salade
-
 Temps de préparation : 30 min
 Temps de cuisson : 20 min
-
-## Apports nutritionnels
-
-### Total
-
-* ??? kcal total
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
-
-### Par portion
-
-1 portion = 1 ramequin
-
-* ??? kcal par ramequins
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
 
 ## Ustensiles
 
@@ -75,6 +55,8 @@ Temps de cuisson : 20 min
 * Servir avec une salade.
 
 ## Remarques
+
+* Servir chaud ou froid avec une salade
 
 ## Inspirations
 

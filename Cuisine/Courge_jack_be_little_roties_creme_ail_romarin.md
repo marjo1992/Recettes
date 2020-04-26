@@ -9,24 +9,6 @@ Pour 4 portions (1 courge par portion)
 Temps de préparation : 20 min
 Temps de cuisson : 50 min
 
-## Apports nutritionnels
-
-### Total
-
-* ??? kcal total
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
-
-### Par portion
-
-1 portion = 1 ramequin
-
-* ??? kcal par ramequins
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
-
 ## Ustensiles
 
 * Four

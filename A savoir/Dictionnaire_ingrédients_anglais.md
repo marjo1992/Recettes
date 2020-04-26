@@ -14,9 +14,8 @@ Catégories : Equivalent anglais / français
 |         | Powdered Sugar    | Sucre Glace              |
 
 
-* [Amandine cooking : Les différents sucres](http://www.amandinecooking.com/les-differents-sucres.html)
-* [Au féminin : Les sucres](https://www.aufeminin.com/ingredients/les-sucres-s642315.html)
-* [La nutrition : Les différents typee de sucre](https://www.lanutrition.fr/les-differents-types-de-sucres)
+## Inspirations
+
 * [French district : Cuisiner français avec des ingrédients américains](https://frenchdistrict.com/articles/cuisiner-francais-ingredients-americains/)
 * [Le hamburger et le croissant : Petit guide de pâtisserie made in USA, partie 1](http://tetellita.blogspot.com/2006/06/petit-guide-de-ptisserie-made-in-usa.html)
 * [Le hamburger et le croissant : Petit guide de pâtisserie made in USA, partie 2](http://tetellita.blogspot.com/2006/06/petit-guide-de-ptisserie-made-in-usa_20.html)

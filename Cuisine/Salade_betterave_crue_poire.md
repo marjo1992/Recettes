@@ -9,24 +9,6 @@ Pour 4 portion
 Temps de préparation : 15 min
 Temps de cuisson : /
 
-## Apports nutritionnels
-
-### Total
-
-* ??? kcal total
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
-
-### Par portion
-
-1 portion = 1 ramequin
-
-* ??? kcal par ramequins
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
-
 ## Ustensiles
 
 * 1 saladier
