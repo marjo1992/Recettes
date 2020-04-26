@@ -8,9 +8,11 @@ Tags : Cheesecake, Dessert, Froid
 
 Pour 12 parts
 
-Temps de préparation : 15 min
-Temps de cuisson : 48 min
-Temps de refroidissement : 1 h
+**Temps de préparation :** 15 min
+
+**Temps de cuisson :** 48 min
+
+**Temps de refroidissement :** 1 h
 
 ## Apports nutritionnels
 
@@ -88,8 +90,8 @@ La temérature dans le four est crucial. La température indiquée dans la est l
 
 ## Inspirations
 
-* https://www.craftpassion.com/light-japanese-cheesecake/
+* [https://www.craftpassion.com/light-japanese-cheesecake/]
+* [https://www.youtube.com/watch?v=SyM3jMFjess]
 
 
 à regarder : 
-https://www.youtube.com/watch?v=SyM3jMFjess

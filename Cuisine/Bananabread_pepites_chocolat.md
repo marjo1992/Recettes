@@ -6,8 +6,9 @@ Tags : Banane, Gâteau, Dessert, Froid, Bento
 
 Pour 8 personnes
 
-Temps de préparation : 10 min
-Temps de cuisson : 35 min
+**Temps de préparation :** 10 min
+
+**Temps de cuisson :** 35 min
 
 ## Apports nutritionnels
 
@@ -47,13 +48,13 @@ Temps de cuisson : 35 min
 
 ## Étapes
 
-* Préchauffer le four à 190°
-* Mixer les flocons d'avoine dans un récipient vertical
-* Dans un saladier, écraser les bananes avec une fourchette
-* Ajouter dans le saladier le yaourt, les œufs et le sucre
-* Ajouter les flocons d'avoines mixés, la levure, le sel, mélanger jusqu'à l'obtention d'une pâte homogène
-* Ajouter les pépites de chocolat, mélanger de nouveau
-* Mettre la préparation dans le moule à cake et enfourner pendant 35 min
+1. Préchauffer le four à 190°
+2. Mixer les flocons d'avoine dans un récipient vertical
+3. Dans un saladier, écraser les bananes avec une fourchette
+4. Ajouter dans le saladier le yaourt, les œufs et le sucre
+5. Ajouter les flocons d'avoines mixés, la levure, le sel, mélanger jusqu'à l'obtention d'une pâte homogène
+6. Ajouter les pépites de chocolat, mélanger de nouveau
+7. Mettre la préparation dans le moule à cake et enfourner pendant 35 min
 
 ## Remarques
 
