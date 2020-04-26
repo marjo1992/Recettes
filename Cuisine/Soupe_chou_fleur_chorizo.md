@@ -10,10 +10,9 @@ Servir chaud
 
 /!\\ A préparer au moins 40min avant de manger
 
-Temps de préparation : 15 min
-Temps de cuisson : 25 min
+**Temps de préparation :** 15 min
 
-## Apports nutritionnels
+**Temps de cuisson :** 25 min
 
 ### Total
 
@@ -61,10 +60,6 @@ Temps de cuisson : 25 min
 * Répartir en portion de 300 ml dans les bocaux
 * Décorez de quelques dés de chorizo, c’est fait !
 
-## Remarques
-
-/
-
 ## Inspirations
 
-* https://www.fourchette-et-bikini.fr/recettes/recettes-minceur/soupe-de-chou-fleur-au-chorizo-allegee-au-thermomixc.html
+* [Fourchette et bikini : Soupe de chou-fleur au chorizo allégée au Thermomix©](https://www.fourchette-et-bikini.fr/recettes/recettes-minceur/soupe-de-chou-fleur-au-chorizo-allegee-au-thermomixc.html)

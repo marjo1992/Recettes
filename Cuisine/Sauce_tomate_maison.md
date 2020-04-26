@@ -6,8 +6,9 @@ Tags : Tomate, Sauce, Simple, Chaud
 
 Pour environ 500mL de sauce (9 parts)
 
-Temps de préparation : 5 min
-Temps de cuisson : 15 min
+**Temps de préparation :** 5 min
+
+**Temps de cuisson :** 15 min
 
 ## Apports nutritionnels
 

@@ -42,8 +42,6 @@ Servir chaud ou froid avec une salade
 * Ajouter les feuilles de blettes, coupées en petits morceaux et le saumon fumé et mélanger doucement pour ne pas écraser le fromage de chèvre.
 * Répartir dans le moule à cake et faire cuire au four 30 min à 180°C.
 
-## Remarques
-
 ## Inspirations
 
-* http://www.teafolie.fr/archives/2014/09/10/30559475.html
+* [Teafolie : Mini-cake ou muffins aux blettes, saumon fumé et fromage de chèvre](http://www.teafolie.fr/archives/2014/09/10/30559475.html)

@@ -56,10 +56,6 @@ Pour 8 personnes
 6. Ajouter les pépites de chocolat, mélanger de nouveau
 7. Mettre la préparation dans le moule à cake et enfourner pendant 35 min
 
-## Remarques
-
-* 
-
 ## Inspirations
 
-* https://www.healthyfoodcreation.fr/bananabread-aux-pepites-de-chocolat/
+* [Healthy food creation : bananabread aux pépites de chocolat](https://www.healthyfoodcreation.fr/bananabread-aux-pepites-de-chocolat/)

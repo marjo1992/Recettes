@@ -10,8 +10,9 @@ Servir tiède ou froid
 
 /!\\ A préparer au moins 1h30 avant de manger
 
-Temps de préparation : 20 min
-Temps de cuisson : 40 min
+**Temps de préparation :** 20 min
+
+**Temps de cuisson :** 40 min
 
 ## Apports nutritionnels
 
@@ -60,10 +61,6 @@ Temps de cuisson : 40 min
 * Enfournez pendant 40 minutes.
 * Servez tiède ou froid.
 
-## Remarques
-
-/
-
 ## Inspirations
 
-* https://www.fourchette-et-bikini.fr/recettes/recettes-minceur/quiche-legere-aux-epinards-et-a-la-feta.html
+* [Fourchette et bikini : Quiche légère aux épinards et à la feta](https://www.fourchette-et-bikini.fr/recettes/recettes-minceur/quiche-legere-aux-epinards-et-a-la-feta.html)

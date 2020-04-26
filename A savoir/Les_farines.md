@@ -56,5 +56,5 @@ Catégories : Les ingrédients de base en cuisine
 
 ## Inspirations
 
-* https://www.weekendbakery.com/posts/understanding-flour-types/
-* https://www.chowhound.com/food-news/53455/you-say-farine-i-say-flour/
+* [Weekend bakery : Understanding flour types](https://www.weekendbakery.com/posts/understanding-flour-types/)
+* [Chowhound : You Say Farine, I Say Flour](https://www.chowhound.com/food-news/53455/you-say-farine-i-say-flour/)

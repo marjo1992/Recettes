@@ -10,8 +10,9 @@ Servir froid
 
 /!\\ A préparer au moins 4h avant de manger
 
-Temps de préparation : 15 min
-Temps de cuisson : 45 min
+**Temps de préparation :** 15 min
+
+**Temps de cuisson :** 45 min
 
 ## Apports nutritionnels
 
@@ -69,6 +70,6 @@ Temps de cuisson : 45 min
 
 ## Inspirations
 
-* https://www.marmiton.org/recettes/recette_creme-aux-oeufs-a-la-vanille-simple_26355.aspx
-* https://www.cuisineactuelle.fr/recettes/creme-caramel-au-thermomix-302943
-* https://www.cuisineactuelle.fr/recettes/creme-aux-oeufs-au-caramel-265003
+* [Marmiton : crème aux oeufs à la vanille simple](https://www.marmiton.org/recettes/recette_creme-aux-oeufs-a-la-vanille-simple_26355.aspx)
+* [Cuisine actuelle : crème caramel au thermomix](https://www.cuisineactuelle.fr/recettes/creme-caramel-au-thermomix-302943)
+* [Cuisine actuelle : crème aux oeufs au caramel](https://www.cuisineactuelle.fr/recettes/creme-aux-oeufs-au-caramel-265003)

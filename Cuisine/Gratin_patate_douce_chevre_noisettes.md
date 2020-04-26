@@ -6,26 +6,9 @@ Tags : Chaud, Patate douce
 
 Pour 2 portions
 
-Temps de préparation : 15 min
-Temps de cuisson : 30 min
+**Temps de préparation :** 15 min
 
-## Apports nutritionnels
-
-### Total
-
-* ??? kcal total
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
-
-### Par portion
-
-1 portion = 1 ramequin
-
-* ??? kcal par ramequins
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
+**Temps de cuisson :** 30 min
 
 ## Ustensiles
 
@@ -56,8 +39,6 @@ Temps de cuisson : 30 min
 * Remettre du chèvre sur la purée, un peu de crème liquide et couvrir de noisettes. Terminer par du parmesan.
 * Enfourner pendant 15 minutes.
 
-## Remarques
-
 ## Inspirations
 
-* http://www.stephatable.com/2011/09/gratin-de-patates-douces-chevre-et-noisettes/
+* [Steph à table : gratin de patates douces, chèvre et noisettes](http://www.stephatable.com/2011/09/gratin-de-patates-douces-chevre-et-noisettes/)

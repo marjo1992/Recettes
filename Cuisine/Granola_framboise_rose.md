@@ -4,29 +4,9 @@ Catégories : Petit-déjeuner
 
 Tags : Granola, Four, Flocons d'avoine
 
-Pour X portions
+**Temps de préparation :** 5 min
 
-Temps de préparation : 5 min
-
-Temps de cuisson : 30 min
-
-## Apports nutritionnels
-
-### Total
-
-*  kcal total
-*  g glucides
-*  g protéines
-*  g lipides
-
-### Par portion
-
-1 portion = 
-
-*  kcal par portion
-*  g glucides
-*  g protéines
-*  g lipides
+**Temps de cuisson :** 30 min
 
 ## Ustensiles
 
@@ -65,4 +45,4 @@ Temps de cuisson : 30 min
 
 ## Inspirations
 
-* http://www.la-gourmandise-selon-angie.com/archives/2018/05/22/36424920.html
+* [La gourmandise selon angie : Granola à la rose, framboise & amandes](http://www.la-gourmandise-selon-angie.com/archives/2018/05/22/36424920.html)

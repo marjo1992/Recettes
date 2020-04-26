@@ -6,8 +6,9 @@ Tags : Salade, Betterave, Poire, Bento
 
 Pour 4 portion
 
-Temps de préparation : 15 min
-Temps de cuisson : /
+**Temps de préparation :** 15 min
+
+**Temps de cuisson :** /
 
 ## Ustensiles
 
@@ -38,4 +39,4 @@ Temps de cuisson : /
 
 ## Inspirations
 
-* https://www.lacuisinecestsimple.com/2013/11/simple-comme-une-salade-de-betterave.html
+* [La cuisine c'est simple : imple comme une salade de betterave crue](https://www.lacuisinecestsimple.com/2013/11/simple-comme-une-salade-de-betterave.html)

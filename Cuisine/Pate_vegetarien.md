@@ -8,8 +8,9 @@ Servir froid avec la sauce tomate maison chaude (dose pour 500mL) et accompagné
 
 /!\\ A préparer au moins 2h avant de manger
 
-Temps de préparation : 30 min
-Temps de cuisson : 35 min
+**Temps de préparation :** 30 min
+
+**Temps de cuisson :** 35 min
 
 **Idée menu :**
 
@@ -71,10 +72,6 @@ Temps de cuisson : 35 min
 * Mettre dans le moule à cake
 * Cuire au four pendant 35 minutes
 * Laisser refroidir
-
-## Remarques
-
-/
 
 ## Inspirations
 

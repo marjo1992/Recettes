@@ -4,29 +4,9 @@ Catégories : Petit-déjeuner
 
 Tags : Granola, Four, Flocons d'avoine
 
-Pour X portions
+**Temps de préparation :** 5 min
 
-Temps de préparation : 5 min
-
-Temps de cuisson : 30 min
-
-## Apports nutritionnels
-
-### Total
-
-*  kcal total
-*  g glucides
-*  g protéines
-*  g lipides
-
-### Par portion
-
-1 portion = 
-
-*  kcal par portion
-*  g glucides
-*  g protéines
-*  g lipides
+**Temps de cuisson :** 30 min
 
 ## Ustensiles
 
@@ -60,4 +40,4 @@ Temps de cuisson : 30 min
 
 ## Inspirations
 
-* https://www.healthyfoodcreation.fr/granola-amandes-chocolat/
+* [Healthy food creation : granola amandes chocolat](https://www.healthyfoodcreation.fr/granola-amandes-chocolat/)

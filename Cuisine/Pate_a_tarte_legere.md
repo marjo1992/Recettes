@@ -6,7 +6,7 @@ Tags : Pâte à tarte, Simple
 
 Pour 1 pâte à tarte
 
-Temps de préparation : 5 min
+**Temps de préparation :** 5 min
 
 ## Ustensiles
 
@@ -33,4 +33,4 @@ Temps de préparation : 5 min
 
 ## Inspirations
 
-* http://www.lesrecetteslegeresdechrissy.fr/article-pate-a-tarte-legere-au-yaourt-thermomix-ou-non-108560763.html
+* [Les recettes legèes de chrissy : Pâte à tarte légère au yaourt](http://www.lesrecetteslegeresdechrissy.fr/article-pate-a-tarte-legere-au-yaourt-thermomix-ou-non-108560763.html)

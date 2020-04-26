@@ -8,9 +8,9 @@ Tags : Potiron bleu, Salade
 
 Pour 2 portions
 
-Temps de préparation : 20 min
+**Temps de préparation :** 20 min
 
-Temps de cuisson : /
+**Temps de cuisson :** /
 
 ## Ustensiles
 
@@ -50,4 +50,4 @@ Temps de cuisson : /
 
 ## Inspirations
 
-* http://www.cuisineenbandouliere.com/salade-de-potiron-bleu-de-hongrie/
+* [Cuisine en bandouliere : Salade de potiron bleu de Hongrie](http://www.cuisineenbandouliere.com/salade-de-potiron-bleu-de-hongrie/)

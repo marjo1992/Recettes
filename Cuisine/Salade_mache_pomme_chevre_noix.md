@@ -6,8 +6,9 @@ Tags : Salade, Mâche, Pomme, Froid, Bento
 
 Pour 1 portion
 
-Temps de préparation : 15 min
-Temps de cuisson : /
+**Temps de préparation :** 15 min
+
+**Temps de cuisson :** /
 
 ## Ustensiles
 
@@ -37,4 +38,4 @@ Temps de cuisson : /
 
 ## Inspirations
 
-* http://juliettelebreton.fr/salade-dautomne-mache-pomme-chevre-noix-mie/
+* [Juliette le breton : Salade d’automne : Mâche, pomme, chèvre & noix](http://juliettelebreton.fr/salade-dautomne-mache-pomme-chevre-noix-mie/)

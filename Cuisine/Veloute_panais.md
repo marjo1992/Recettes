@@ -6,8 +6,9 @@ Tags : Soupe, Panais
 
 Pour 1,5 l de soupe
 
-Temps de préparation : 15 min
-Temps de cuisson : 20 min
+**Temps de préparation :** 15 min
+
+**Temps de cuisson :** 20 min
 
 ## Ustensiles
 
@@ -39,4 +40,4 @@ Temps de cuisson : 20 min
 
 ## Inspirations
 
-* https://www.cuisineaz.com/recettes/veloute-de-panais-au-chorizo-60199.aspx
+* [Cuisine AZ : Velouté de panais au chorizo](https://www.cuisineaz.com/recettes/veloute-de-panais-au-chorizo-60199.aspx)

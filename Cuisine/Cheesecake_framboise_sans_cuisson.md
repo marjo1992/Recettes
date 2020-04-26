@@ -100,5 +100,5 @@ Servir froid
 
 ## Inspirations
 
-* https://www.youtube.com/watch?v=QPfj90a9EFQ&t=7s
+* [Youtube Cooking tree : No-Bake Strawberry Cheesecake Recipe](https://www.youtube.com/watch?v=QPfj90a9EFQ&t=7s)
 * [Cheesecake gradient de fraises](https://recipe.cotta.jp/recipe.php?recipeid=00015175)

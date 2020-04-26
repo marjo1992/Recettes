@@ -6,26 +6,9 @@ Tags : Chaud, Pomme, Boudin noir
 
 Pour 4 portion
 
-Temps de préparation : ? min
-Temps de cuisson : ?
+**Temps de préparation :** ? min
 
-## Apports nutritionnels
-
-### Total
-
-* ??? kcal total
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
-
-### Par portion
-
-1 portion = 1 ramequin
-
-* ??? kcal par ramequins
-* ??? g glucides
-* ??? g protéines
-* ??? g lipides
+**Temps de cuisson :** ? min
 
 ## Ustensiles
 
@@ -94,10 +77,8 @@ Temps de cuisson : ?
 * Disposer dans des petit plat en terre cuite une couche de pomme, une couche d'oignons, des tranches de boudins, une couche de purée de pomme de terre
 * Gratiné au four pendant 5-10 min
 
-## Remarques
-
 ## Inspirations
 
-* https://www.youtube.com/watch?v=63lyeTxMrB0
-* https://yummix.fr/parmentier-boudin-pommes-thermomix/
-* [HACHIS PARMENTIER DE BOUDIN NOIR ET POMMES (thermomix)](http://thermominoux.over-blog.com/article-hachis-parmentier-de-boudin-noir-et-pommes-101188585.html)
+* [Youtube meteoalacartelemag : Recette gratin de boudin aux pommes](https://www.youtube.com/watch?v=63lyeTxMrB0)
+* [Yummix : parmentier boudin pommes thermomix](https://yummix.fr/parmentier-boudin-pommes-thermomix/)
+* [Thermominoux : Hachis parmentier de boudin noir et pommes (thermomix)](http://thermominoux.over-blog.com/article-hachis-parmentier-de-boudin-noir-et-pommes-101188585.html)

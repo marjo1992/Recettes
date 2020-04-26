@@ -6,8 +6,9 @@ Tags : Simple, Tartinade, Froid, Bento, Radis
 
 Pour 8 portions
 
-Temps de préparation : 5 min
-Temps de cuisson : /
+**Temps de préparation :** 5 min
+
+**Temps de cuisson :** /
 
 ## Apports nutritionnels
 
@@ -49,8 +50,6 @@ Temps de cuisson : /
 * Mélanger 10 sec/vitesse 3
 * Servir
 
-## Remarques
-
 ## Inspirations
 
-* https://cookidoo.fr/recipes/recipe/fr-FR/r54122
+* [Cookidoo : Tartinade de fromage frais et de radis](https://cookidoo.fr/recipes/recipe/fr-FR/r54122)

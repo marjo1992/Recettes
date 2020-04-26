@@ -16,17 +16,12 @@ Catégories : Linge
 
 ## Mode opératoire
 
-* Couper le savon la quantité voulu et le mettre dans le bol du thermomix, fermer avec le verre doseur et mixer 10 sec / vit 9
-
-* Ajouter l'eau, les cristaux de soude et le savon noir et lancer le thermomix 10 min / 90° / vitesse 1
-
-* Laisser refroidir dans les thermomix environ 3h
-
-* Mixer 30 sec / vit 3.
-
-* Transvaser cette préparation dans la bouteille en verre
-
-* Avant chaque utilisation, secouer la bouteille
+1. Couper le savon la quantité voulu et le mettre dans le bol du thermomix, fermer avec le verre doseur et mixer 10 sec / vit 9
+2. Ajouter l'eau, les cristaux de soude et le savon noir et lancer le thermomix 10 min / 90° / vitesse 1
+3. Laisser refroidir dans les thermomix environ 3h
+4. Mixer 30 sec / vit 3.
+5. Transvaser cette préparation dans la bouteille en verre
+6. Avant chaque utilisation, secouer la bouteille
 
 ## Conseils utilisation
 
@@ -66,12 +61,12 @@ Sur les taches rebelles (sur tissus peu sensibles) : appliquer une pâte de cris
   * Étirer la laine régulièrement (toutes les heures) pour détendre les fibres.
   * Enfin, rincer le vêtement à l’eau claire, essorez-le grossièrement puis laissez-le sécher à plat sur un étendoir.
 
-## Sources
+## Inspirations
 
 * Kevin
-* https://cahierdegourmandises.fr/lessive-maison/
-* https://cahierdegourmandises.fr/faq-lessive-adoucissant-maison/
+* [Cahier de gourmandises : lessive maison](https://cahierdegourmandises.fr/lessive-maison/)
+* [Cahier de gourmandises : faq lessive adoucissant maison](https://cahierdegourmandises.fr/faq-lessive-adoucissant-maison/)
 
+## A regarder
 
-A regarder :
-https://unejulieverte.com/recette-zero-dechet-diy-lessive-maison-naturelle-ecologique-economique/
+* [Une julie verte : Recette Zéro Déchet ♦ Lessive Maison naturelle, écologique, économique](https://unejulieverte.com/recette-zero-dechet-diy-lessive-maison-naturelle-ecologique-economique/)

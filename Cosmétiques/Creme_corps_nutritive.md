@@ -4,17 +4,17 @@ Catégories : Corps
 
 ## Ingrédients
 
-PHASE A :
+### PHASE A
 
 * Huile végétale Coco
 * Emulsifiant Olivem 1000
 
-PHASE B :
+### PHASE B
 
 * Hydrolat Hamamélis
 * Eau minérale
 
-PHASE C :
+### PHASE C
 
 * Conservateur Leucidial
 

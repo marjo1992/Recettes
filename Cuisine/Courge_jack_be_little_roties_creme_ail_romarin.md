@@ -6,8 +6,9 @@ Tags : Four, Chaud, Courge Jack Be Little
 
 Pour 4 portions (1 courge par portion)
 
-Temps de préparation : 20 min
-Temps de cuisson : 50 min
+**Temps de préparation :** 20 min
+
+**Temps de cuisson :** 50 min
 
 ## Ustensiles
 
@@ -48,4 +49,4 @@ la casserole.
 
 ## Inspirations
 
-* https://www.lacuisinedebernard.com/2016/10/jack-be-little-rotis-la-creme-dail-e.html
+* [La cuisine de bernard : Courges Jack be little rôties farcies à la crème d'ail et romarin](https://www.lacuisinedebernard.com/2016/10/jack-be-little-rotis-la-creme-dail-e.html)

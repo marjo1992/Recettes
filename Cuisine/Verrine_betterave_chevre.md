@@ -6,8 +6,9 @@ Tags : Entrée, Simple, Froid, Bento
 
 Pour ? ramequins
 
-Temps de préparation : 12 mn
-Temps de cuisson : /
+**Temps de préparation :** 12 min
+
+**Temps de cuisson :** /
 
 ## Ustensiles
 
@@ -32,10 +33,6 @@ Temps de cuisson : /
 * Écraser le fromage de chèvre à la fourchette dans un bol, ajouter la crème et mélanger énergiquement pour former une pâte uniforme. Ajouter la menthe et la ciboulette.
 * Ajouter la crème au chèvre dans chaque verrine.
 
-## Remarques
-
-* /
-
 ## Inspirations
 
-* https://carrotcake.fr/fr/recipes/verrine-de-betterave-et-chevre-frais
+* [Carrot cake : Verrine de betterave et chèvre frais](https://carrotcake.fr/fr/recipes/verrine-de-betterave-et-chevre-frais)

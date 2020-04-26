@@ -6,27 +6,9 @@ Tags : Quinoa, Végétarien
 
 Pour 5 portions
 
-Temps de préparation : 5 min
+**Temps de préparation :** 5 min
 
-Temps de cuisson : 15 min
-
-## Apports nutritionnels
-
-### Total
-
-*  kcal total
-*  g glucides
-*  g protéines
-*  g lipides
-
-### Par portion
-
-1 portion = 
-
-*  kcal par portion
-*  g glucides
-*  g protéines
-*  g lipides
+**Temps de cuisson :** 20 min
 
 ## Ustensiles
 
@@ -51,10 +33,6 @@ Temps de cuisson : 15 min
 5. Dans un poele, sans matière grasse, faire griller à feu vif (7) les noisettes écrasées et les pignons
 6. Baisser à feu moyen (4) Ajouter le beurre, le sel et le quinoa dans la poelle et remuer pendant 3 min
 
-## Remarques
-
-* 
-
 ## Inspirations
 
-* https://carrotcake.fr/fr/recipes/quinoa-aux-noisettes-et-pignons
+* [Carrotcake : Quinoa aux noisettes et pignons](https://carrotcake.fr/fr/recipes/quinoa-aux-noisettes-et-pignons)

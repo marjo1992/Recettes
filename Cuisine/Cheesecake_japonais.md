@@ -86,12 +86,9 @@ Pour 12 parts
 
 ## Remarques
 
-La temérature dans le four est crucial. La température indiquée dans la est la température au four. Chaque four est différent, donc si vous n'êtes pas trop sûr si la température à l'intérieur de votre four est exacte comme ce que vous avez réglé sur le panneau de commande, utiliser un thermomètre de four pour vérifier.
+La température dans le four est crucial. La température indiquée dans la est la température au four. Chaque four est différent, donc si vous n'êtes pas trop sûr si la température à l'intérieur de votre four est exacte comme ce que vous avez réglé sur le panneau de commande, utiliser un thermomètre de four pour vérifier.
 
 ## Inspirations
 
-* [https://www.craftpassion.com/light-japanese-cheesecake/]
-* [https://www.youtube.com/watch?v=SyM3jMFjess]
-
-
-à regarder : 
+* [Craftpassion : light japanese cheesecake/](https://www.craftpassion.com/light-japanese-cheesecake/)
+* [Youtube 小高姐的 Magic Ingredients : Japanese Cheesecake](https://www.youtube.com/watch?v=SyM3jMFjess)
