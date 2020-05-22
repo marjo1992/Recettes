@@ -14,6 +14,12 @@ Servir froid
 
 **Temps de cuisson :** /
 
+![Cheesecake citron sans cuisson](./Cheesecake_citron_sans_cuisson_1.jpg)
+
+![Cheesecake citron sans cuisson](./Cheesecake_citron_sans_cuisson_2.jpg)
+
+![Cheesecake citron sans cuisson](./Cheesecake_citron_sans_cuisson_3.jpg)
+
 ## Ustensiles
 
 * Cercle de cuisson de 15 cm ou 16 cm
