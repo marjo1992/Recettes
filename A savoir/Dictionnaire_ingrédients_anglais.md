@@ -18,9 +18,13 @@ Catégories : Equivalent anglais / français
         <td>Farine de Blé T55</td>
     </tr>
     <tr>
-        <td rowspan=2>Poudres</td>
+        <td rowspan=3>Poudres</td>
         <td>Baking Powder</td>
         <td>Levure Chimique</td>
+    </tr>
+    <tr>
+        <td>Yeast</td>
+        <td>Levure boulangère</td>
     </tr>
     <tr>
         <td>Baking Soda</td>
@@ -36,7 +40,6 @@ Catégories : Equivalent anglais / français
         <td>Sucre Vergeoise</td>
     </tr>
     <tr>
-        <td></td>
         <td>Powdered Sugar</td>
         <td>Sucre Glace</td>
     </tr>

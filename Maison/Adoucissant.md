@@ -27,3 +27,7 @@ Catégories : Linge
 * Si le linge est peu rêche ajouter plus de vinaigre
 * Utiliser des balles de lavages
 * Le vinaigre blanc est déconseillé pour les élastiques (ou couches lavables aussi), ne pas mettre d'adoussisant dans ce cas.
+
+## A tester
+
+* Adoucissant avec de l'acide citrique et non du vinaigre : 30 grammes d'acide citrique dans 1l d'eau

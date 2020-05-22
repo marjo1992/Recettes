@@ -70,3 +70,4 @@ Sur les taches rebelles (sur tissus peu sensibles) : appliquer une pâte de cris
 ## A regarder
 
 * [Une julie verte : Recette Zéro Déchet ♦ Lessive Maison naturelle, écologique, économique](https://unejulieverte.com/recette-zero-dechet-diy-lessive-maison-naturelle-ecologique-economique/)
+* [Ma lessive au savon de Marseille faite maison](http://lilycraftblog.com/faire-son-liquide-pour-la-lessive-maison/)
