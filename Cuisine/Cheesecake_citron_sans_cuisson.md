@@ -96,10 +96,11 @@ Servir froid
 3. Prendre un peu de la préparation de la caserole et mélanger à la maizena
 4. Incorporer la maizena diluer dans la casserole
 5. Mélanger
-6. Chauffer à feu moyen tout en mélanger avec une spatule en continue pour avoir un mélange lisse et ce jusqu'à aipaissiement
+6. Chauffer à feu moyen tout en mélanger avec une spatule en continue pour avoir un mélange lisse et ce jusqu'à aipaissiement, il faut que la préparation soit assez épaisse pour pouvoir la bouger avec la spatule en voyant le fond qui ne se rebouche pas aussitot voir pas du tout, aspect de lemon curd
 7. Retirer du feu
-8. Essorer la gélatine et l'ajouter dans la caserole et mélanger
+8. Ajouter le beurre et mélanger
 9. Ajouter le jaune d'oeuf et mélanger
+8. Essorer la gélatine et l'ajouter dans la caserole et mélanger
 10. Sortir de gateau du congélateur
 11. Verser sur le gateau dans le cercle de cuisson la préparation, répartir uniformément
 12. Mettre au congélateur 20 min
